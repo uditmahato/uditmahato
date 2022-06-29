@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @uditmahato
-- 👀 I’m interested in website development  but have keen to work on data science and machine learning
+- 👀 I’m a front end web develper
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on big ideas
 - 📫 you can reach to me at uditmahato29271@gmail.com
