@@ -25,10 +25,14 @@
 <div align="center">
     <h2>My Projects</h2>
     <p>Here are a few of my projects that I'm proud of:</p>
-    <!-- Add your project cards here, like this: -->
-    <!--
-    <a href="https://github.com/uditmahato/project-repo">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=project-repo&theme=radical" alt="Project Name">
+    <!-- Replace with your actual project URLs and names -->
+    <a href="https://github.com/uditmahato/your-project-repo-1">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-1&theme=radical" alt="Project 1">
     </a>
-    -->
+    <a href="https://github.com/uditmahato/your-project-repo-2">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-2&theme=radical" alt="Project 2">
+    </a>
+    <a href="https://github.com/uditmahato/your-project-repo-3">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-3&theme=radical" alt="Project 3">
+    </a>
 </div>
