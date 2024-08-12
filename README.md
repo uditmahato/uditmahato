@@ -1,12 +1,11 @@
 <div align="center">
     <h1>Hi there, I'm Udit Mahato 👋</h1>
-    <p>I'm a Front End Web Developer, currently diving into the world of Python and Data Science.</p>
-    <p>I'm passionate about coding and eager to collaborate on big ideas.</p>
+    <p>I'm a Data and AI Enthusiast with a strong background in AI research, machine learning, and data science.</p>
+    <p>I'm passionate about leveraging data to drive innovative solutions and eager to collaborate on impactful AI projects.</p>
     <p>Feel free to reach out to me at <a href="mailto:uditmahato29271@gmail.com">uditmahato29271@gmail.com</a></p>
 </div>
 
 <br>
-
 
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=uditmahato&style=flat-square&color=blueviolet&label=Profile+Views" alt="Profile Views">
