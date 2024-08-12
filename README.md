@@ -25,14 +25,14 @@
 <div align="center">
     <h2>My Projects</h2>
     <p>Here are a few of my projects that I'm proud of:</p>
-    <!-- Replace with your actual project URLs and names -->
-    <a href="https://github.com/uditmahato/your-project-repo-1">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-1&theme=radical" alt="Project 1">
+    <a href="https://github.com/uditmahato/api_maize_plant_disease">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=api_maize_plant_disease&theme=radical" alt="API Maize Plant Disease">
     </a>
-    <a href="https://github.com/uditmahato/your-project-repo-2">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-2&theme=radical" alt="Project 2">
+    <a href="https://github.com/uditmahato/mobile_app_for_maize_plant_disease_detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=mobile_app_for_maize_plant_disease_detection&theme=radical" alt="Mobile App for Maize Plant Disease Detection">
     </a>
-    <a href="https://github.com/uditmahato/your-project-repo-3">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=your-project-repo-3&theme=radical" alt="Project 3">
+    <a href="https://github.com/uditmahato/chatbot_using_gemini_api">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chatbot_using_gemini_api&theme=radical" alt="Chatbot Using Gemini API">
     </a>
 </div>
+
