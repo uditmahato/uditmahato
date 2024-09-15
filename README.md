@@ -29,7 +29,7 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=api_maize_plant_disease&theme=radical" alt="API Maize Plant Disease">
     </a>
     <a href="https://github.com/uditmahato/mobile_app_for_maize_plant_disease_detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=mobile_app_for_maize_plant_disease_detection&theme=radical" alt="Mobile App for Maize Plant Disease Detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=mobile_app_for_maize_plant_disease_detection&theme=radical" alt="Mobile App for Maize Plant Diseases Detection">
     </a>
     <a href="https://github.com/uditmahato/chatbot_using_gemini_api">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chatbot_using_gemini_api&theme=radical" alt="Chatbot Using Gemini API">
