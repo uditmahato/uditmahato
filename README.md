@@ -34,8 +34,8 @@
     <a href="https://github.com/uditmahato/chatbot_using_gemini_api">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chatbot_using_gemini_api&theme=radical" alt="Chatbot Using Gemini API">
     </a>
-    a href="https://github.com/uditmahato/chatbot">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chatbot&theme=radical" alt="An interactive chatbot application built with Streamlit, utilizing Google’s Generative AI and Langchain for document-based Q&A. ">
+    a href="https://github.com/uditmahato/cha_tbot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chat_bot&theme=radical" alt="An interactive chatbot application built with Streamlit, utilizing Google’s Generative AI and Langchain for document-based Q&A. ">
     </a>
 </div>
 
