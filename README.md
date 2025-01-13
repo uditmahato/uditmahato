@@ -37,4 +37,7 @@
     <a href="https://github.com/uditmahato/chat_bot">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=chat_bot&theme=radical" alt="An interactive chatbot application built with Streamlit, utilizing Google’s Generative AI and Langchain for document-based Q&A. ">
     </a>
+        <a href="https://github.com/uditmahato/brain_tumor_detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=brain_tumor_detection&theme=radical" alt="MRI tumor classification app built with Streamlit, leveraging PyTorch-based EfficientNet for accurate scan analysis.">
+    </a>
 </div>
