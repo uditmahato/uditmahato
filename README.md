@@ -50,7 +50,6 @@
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=uditmahato&repo=brain_tumor_detection&theme=radical" alt="MRI tumor classification app built with Streamlit, leveraging PyTorch-based EfficientNet for accurate scan analysis.">
     </a>
 </div>
----
 
 <div align="center">
     <h2>🔧 Skills & Tools</h2>
@@ -63,15 +62,13 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </div>
 
----
-
 <div align="center">
     <h2>📫 Let's Connect!</h2>
     <p>I'm always open to collaborating on exciting projects. Reach out to me:</p>
-    <a href="https://www.linkedin.com/in/your-linkedin-profile">
+    <a href="https://www.linkedin.com/in/uditmahato">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://twitter.com/your-twitter-handle">
+    <a href="https://twitter.com/datasavvy1998">
         <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter">
     </a>
     <a href="mailto:uditmahato29271@gmail.com">
