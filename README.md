@@ -27,28 +27,25 @@ Reach me at **uditmahato29271@gmail.com**
 ---
 
 
-<h2 align="center">GitHub Activity</h2>
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditmahato&theme=dark&hide_border=false" alt="GitHub Streak">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditmahato&amp;theme=react-dark&amp;hide_border=false&amp;area=true" alt="Contribution Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditmahato&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph">
-</p>
 
 ---
 
-<h2 align="center">🛠️ Tech Stack & Tools</h2>
+<h2 align="center">Tech Stack & Tools</h2>
 
-<h3 align="center">💻 Languages</h3>
+<h3 align="center">Languages</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
 </p>
 
-<h3 align="center">🤖 AI/ML Frameworks</h3>
+<h3 align="center">AI/ML Frameworks</h3>
 <p align="center">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
