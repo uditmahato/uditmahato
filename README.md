@@ -26,42 +26,16 @@ Reach me at **uditmahato29271@gmail.com**
 
 ---
 
-## GitHub Stats
+
+<h2 align="center">GitHub Activity</h2>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uditmahato&show_icons=true&theme=default&count_private=true" alt="GitHub Stats">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uditmahato&theme=default" alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uditmahato&theme=dark&hide_border=false" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditmahato&layout=compact&theme=default" alt="Top Languages">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uditmahato&theme=react-dark&hide_border=false&area=true" alt="Contribution Graph">
 </p>
-
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=uditmahato&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=uditmahato&theme=radical&hide_border=true" alt="GitHub Streak">
-</p>
-
-<p align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uditmahato&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages">
-    <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=uditmahato&theme=radical&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph">
-</p>
-
----
-
-## Featured Projects
-
-### AI & Machine Learning
-
-- **[API Maize Plant Disease](https://github.com/uditmahato/api_maize_plant_disease)** - API for detecting diseases in maize plants using deep learning
-- **[Maize Plant Disease Detection App](https://github.com/uditmahato/mobile_app_for_maize_plant_disease_detection)** - Mobile application for real-time plant disease detection
-- **[Brain Tumor Detection](https://github.com/uditmahato/brain_tumor_detection)** - MRI tumor classification using PyTorch and EfficientNet
-- **[Chatbot Using Gemini API](https://github.com/uditmahato/chatbot_using_gemini_api)** - Interactive chatbot powered by Google's Gemini API
-- **[Document Q&A Chatbot](https://github.com/uditmahato/chat_bot)** - Streamlit chatbot with Langchain for document-based question answering
 
 ---
 
