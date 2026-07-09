@@ -1,6 +1,6 @@
 # Udit Mahato
 
-**CTO. Mentor. Builder of things that should exist but don't.**
+**CTO. Educator. Builder of things that should exist but don't.**
 
 Currently building [Jhilke](https://jhilke.com), a mobile-first OTT platform for Nepal.
 
@@ -52,10 +52,12 @@ This was my thesis, and the first time I saw my code matter to someone outside a
 
 I wondered whether AI could tell a child a bedtime story worth keeping. Katha Sajha takes a simple idea, writes an illustrated children's tale around it, and lets you download the whole book as a PDF. It is the most playful thing I have built, and it taught me a lot about making AI feel gentle. *Stack: Flask, Generative AI, Tailwind CSS*
 
+## The teaching half
+
+Building is only half of what I do. I teach as an Academic Tutor at Sunway Innovation Project, working with students on data science and AI. Beyond the classroom, I train working professionals: corporate teams learning to use AI in their business, and government officials learning what it means for public systems. I have delivered six complete AI training programs organized by the Government of Nepal.
+
+I keep coming back to teaching for a selfish reason: explaining something to a room of skeptical civil servants is the fastest way to find out whether you actually understand it yourself.
+
 ## What keeps me curious
 
-The most interesting problems live at the edges: where machine learning meets a farmer with a cracked phone screen, where an LLM meets a language it barely saw in training, where "state of the art" meets "must not fail on Monday morning." That edge is where I work, and I mentor engineers along the way, because understanding something well enough to explain it is the only proof you understand it at all.
-
-If you're chewing on a problem like that, something real, something unsolved, something that matters to people who aren't in tech, I'd love to hear about it.
-
-**uditmahato29271@gmail.com** · [LinkedIn](https://www.linkedin.com/in/uditmahato) · [X / Twitter](https://twitter.com/datasavvy1998)
+The most interesting problems live at the edges: where machine learning meets a far
