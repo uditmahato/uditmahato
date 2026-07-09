@@ -2,7 +2,7 @@
 
 **CTO. Educator. Builder of things that should exist but don't.**
 
-Currently building [Jhilke](https://jhilke.com), a mobile-first OTT platform for Nepal.
+Currently building [Jhilke](https://jhilke.com), a mobile-first OTT platform for Nepal, along with [PDFMergely](https://pdfmergely.com) and Karyabhar.
 
 ## Why I do this
 
