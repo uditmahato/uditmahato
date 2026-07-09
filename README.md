@@ -20,17 +20,13 @@ That pattern eventually became a job title. As a CTO I do the same thing at a la
 
 Nepal watches on phones, not televisions, yet our films still chase screens we do not own. Jhilke is a mobile-first OTT platform for Nepali short dramas, movies, and original web series, built from Kathmandu for the way people here actually watch. Launching soon on Android and iOS.
 
-### AI Filmmaking Pipeline
+### Karyabhar (कार्यभार)
 
-The question I am living inside right now. At Chhayalaya Films we are building a pipeline that carries a story from script to screen, with AI helping wherever it honestly helps and staying out of the way everywhere else. The point is not to replace filmmakers. It is to let a small studio in Kathmandu tell stories at a scale it could never afford before. *In development, internal.*
+Most project tools are built for engineers, and everyone else suffers politely. Karyabhar is a work tracker my non-technical colleagues can use without training: assign a task, do it, mark it done, see the progress. One loop, no jargon, works on any phone. *Stack: React, TypeScript, Supabase, Tailwind CSS. Private repo.*
 
 ### [PDFMergely](https://pdfmergely.com)
 
 I was uneasy that people upload contracts and medical records to random servers just to merge two PDFs. PDFMergely runs every operation inside your own browser, so files never leave your device. Merge, split, compress, sign, OCR, all free, and it keeps working offline. *Stack: WebAssembly, Web Workers, PWA*
-
-### Karyabhar (कार्यभार)
-
-Most project tools are built for engineers, and everyone else suffers politely. Karyabhar is a work tracker my non-technical colleagues can use without training: assign a task, do it, mark it done, see the progress. One loop, no jargon, works on any phone. *Stack: React, TypeScript, Supabase, Tailwind CSS. Private repo.*
 
 ## Shipped
 
@@ -60,4 +56,6 @@ I keep coming back to teaching for a selfish reason: explaining something to a r
 
 ## What keeps me curious
 
-The most interesting problems live at the edges: where machine learning meets a far
+The question I am living inside right now: at Chhayalaya Films we are exploring a pipeline that carries a story from script to screen, with AI helping wherever it honestly helps and staying out of the way everywhere else. The point is not to replace filmmakers. It is to let a small studio in Kathmandu tell stories at a scale it could never afford before.
+
+More broadly, the most interesting problems live at the edges: where machine learning meets a farmer with a cracked phone screen, where an
