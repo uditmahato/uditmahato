@@ -58,4 +58,8 @@ I keep coming back to teaching for a selfish reason: explaining something to a r
 
 The question I am living inside right now: at Chhayalaya Films we are exploring a pipeline that carries a story from script to screen, with AI helping wherever it honestly helps and staying out of the way everywhere else. The point is not to replace filmmakers. It is to let a small studio in Kathmandu tell stories at a scale it could never afford before.
 
-More broadly, the most interesting problems live at the edges: where machine learning meets a farmer with a cracked phone screen, where an
+More broadly, the most interesting problems live at the edges: where machine learning meets a farmer with a cracked phone screen, where an LLM meets a language it barely saw in training, where "state of the art" meets "must not fail on Monday morning." That edge is where I work, and I mentor engineers along the way, because understanding something well enough to explain it is the only proof you understand it at all.
+
+If you're chewing on a problem like that, something real, something unsolved, something that matters to people who aren't in tech, I'd love to hear about it.
+
+**uditmahato29271@gmail.com** · [LinkedIn](https://www.linkedin.com/in/uditmahato) · [X / Twitter](https://twitter.com/datasavvy1998)
